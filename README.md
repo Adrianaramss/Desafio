@@ -33,8 +33,8 @@ https://github.com/Adrianaramss/Desafio/assets/111310311/6317889b-0a58-4c06-b80b
 - styled-components
 
 
-# 🔗 Deploy projeto
-- Deploy Vercel: [Clique aqui para testar!](https://desafio-chi.vercel.app/)
+# 🔗 Deploy projeto 
+- Deploy Vercel: [Clique aqui para testar aplicação online!](https://desafio-chi.vercel.app/)
 
 
 # 🛰Executar o projeto localmente
