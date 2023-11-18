@@ -37,11 +37,11 @@ https://github.com/Adrianaramss/Desafio/assets/111310311/6317889b-0a58-4c06-b80b
 - Deploy Vercel: [Clique aqui para testar aplicação online!](https://desafio-chi.vercel.app/)
 
 
-# 🛰Executar o projeto localmente
+# 🛰Executar o projeto localmente na sua máquina
 ### Instalando
 ```bash
 # Clone repositório
-git clone https://github.com/Adrianaramss/Projeto-Superherois.git
+git clone https://github.com/Adrianaramss/Desafio.git
 
 # Instalando dependências
 npm install
