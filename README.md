@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# 📖 Sobre o projeto
+O projeto consiste em uma calculadora simples que realiza o somatório de números até um valor escolhido pelo usuário. Ao inserir um número, a plataforma identifica os valores abaixo desse número que são divisíveis por 3 e 5, somando-os em seguida.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Por exemplo, se o usuário digitar 10, a calculadora identificará os números 3, 5, 6 e 9, que são divisíveis por 3 e 5, e somará esses valores. No caso específico de 10, o resultado será 23.
 
-## Available Scripts
 
-In the project directory, you can run:
+# 🎯Objetivo 
+O objetivo do projeto é permitir que o usuário  tenha uma maneira fácil e rápida para os usuários obterem o somatório de números específicos, tornando o processo de cálculo simples e acessível.
 
-### `npm start`
+# 📱Layout 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Tela Inicial
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<div align="left"   > 
+  <img height="500" src="https://github.com/Adrianaramss/Desafio/assets/111310311/61d29d35-bd14-4582-b779-449f5757bdac"/>
 
-### `npm test`
+  </div>
+  </br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+# 🚀 Demostração
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+https://github.com/Adrianaramss/Desafio/assets/111310311/6317889b-0a58-4c06-b80b-e2d608713a04
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# 💻 Tecnologias utilizadas no Projeto
 
-### `npm run eject`
+- JavaScript
+- css
+- html
+- React
+- hooks (useState)
+- styled-components
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# 🔗 Deploy projeto
+- Deploy Vercel: [Clique aqui para testar!](https://desafio-chi.vercel.app/)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# 🛰Executar o projeto localmente
+### Instalando
+```bash
+# Clone repositório
+git clone https://github.com/Adrianaramss/Projeto-Superherois.git
 
-## Learn More
+# Instalando dependências
+npm install
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# executando o projeto
+npm run start
+```
+# 📫 Contato
+E-mail - adrianascosta9@gmail.com
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriana-ramss/)
