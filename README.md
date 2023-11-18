@@ -20,7 +20,10 @@ O objetivo do projeto é permitir que o usuário  tenha uma maneira fácil e rá
 
 # 🚀 Demostração
 
-https://github.com/Adrianaramss/Desafio/assets/111310311/6317889b-0a58-4c06-b80b-e2d608713a04
+
+https://github.com/Adrianaramss/Desafio/assets/111310311/2c0f8ce0-f7e8-434d-bf88-3096fcf762c1
+
+
 
 
 # 💻 Tecnologias utilizadas no Projeto
